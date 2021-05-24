@@ -124,7 +124,7 @@
   ![image](https://user-images.githubusercontent.com/82860336/119297885-d2a3d280-bc96-11eb-9af9-f4104561e74b.png)
 
 ### 이벤트 도출
-![image](https://user-images.githubusercontent.com/487999/79683604-47bc0180-8266-11ea-9212-7e88c9bf9911.png)
+![image](https://user-images.githubusercontent.com/82860336/119299845-af7b2200-bc9a-11eb-995d-70644e081f05.png)
 
 ### 부적격 이벤트 탈락
 ![image](https://user-images.githubusercontent.com/487999/79683612-4b4f8880-8266-11ea-9519-7e084524a462.png)
