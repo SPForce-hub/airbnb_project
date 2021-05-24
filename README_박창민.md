@@ -125,10 +125,9 @@
 
 ### 이벤트 도출
 ![image](https://user-images.githubusercontent.com/82860336/119299845-af7b2200-bc9a-11eb-995d-70644e081f05.png)
-
+![image](https://user-images.githubusercontent.com/82860336/119300823-5c09d380-bc9c-11eb-8c45-9378ade1864e.png)
 ### 부적격 이벤트 탈락
-![image](https://user-images.githubusercontent.com/487999/79683612-4b4f8880-8266-11ea-9519-7e084524a462.png)
-
+![image](https://user-images.githubusercontent.com/82860336/119300823-5c09d380-bc9c-11eb-8c45-9378ade1864e.png)
     - 과정중 도출된 잘못된 도메인 이벤트들을 걸러내는 작업을 수행함
         - 주문시>메뉴카테고리선택됨, 주문시>메뉴검색됨 :  UI 의 이벤트이지, 업무적인 의미의 이벤트가 아니라서 제외
 
