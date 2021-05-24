@@ -55,8 +55,6 @@
 # 체크포인트
 
 - 분석 설계
-    ![image](https://user-images.githubusercontent.com/82860336/119297885-d2a3d280-bc96-11eb-9af9-f4104561e74b.png)
-
   - 이벤트스토밍: 
     - 스티커 색상별 객체의 의미를 제대로 이해하여 헥사고날 아키텍처와의 연계 설계에 적절히 반영하고 있는가?
     - 각 도메인 이벤트가 의미있는 수준으로 정의되었는가?
@@ -122,7 +120,7 @@
 
 ## Event Storming 결과
 * MSAEz 로 모델링한 이벤트스토밍 결과:  http://msaez.io/#/storming/nZJ2QhwVc4NlVJPbtTkZ8x9jclF2/every/a77281d704710b0c2e6a823b6e6d973a/-M5AV2z--su_i4BfQfeF
-
+  ![image](https://user-images.githubusercontent.com/82860336/119297885-d2a3d280-bc96-11eb-9af9-f4104561e74b.png)
 
 ### 이벤트 도출
 ![image](https://user-images.githubusercontent.com/487999/79683604-47bc0180-8266-11ea-9212-7e88c9bf9911.png)
